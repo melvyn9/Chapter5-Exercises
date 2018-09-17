@@ -43,7 +43,8 @@ True
 False
 True
 
-#6
+#6 I don't know what I did wrong 
+
 GradeBoundary = {75-100:"First", 70-75:"Upper Second", 60-70:"Second", 50-60:"Third", 45-50:"F1 Supp", 40-45:"F2", 0-40:"F3"}
 
 E = int(input("Please enter the mark out of 100"))
