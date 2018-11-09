@@ -1,4 +1,5 @@
 # Chapter5-Exercises
+
 # 1
 days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
 d = int(input("Please enter the day number between 0 to 6 "))
